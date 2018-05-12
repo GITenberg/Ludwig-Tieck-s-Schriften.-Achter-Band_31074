@@ -1,0 +1,31 @@
+_repo: Ludwig-Tieck-s-Schriften.-Achter-Band_31074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tieck, Ludwig
+    aliases:
+    - Tieck, L. (Ludwig)
+    - Tieck, Johann Ludwig
+    birthdate: 1773
+    deathdate: 1853
+    gutenberg_agent_id: '31945'
+    url: http://www.gutenberg.org/2009/agents/31945
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31074'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- 19th century'
+- !lcc 'PT'
+tableOfContents: Abdallah -- Die brüder -- Almansur -- Das grüne band.
+title: Ludwig Tieck's Schriften. Achter Band
+url: http://www.gutenberg.org/ebooks/31074
